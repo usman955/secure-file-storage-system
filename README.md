@@ -129,12 +129,6 @@ python main.py
 
 ---
 
-## Screenshots
-
-Screenshots of the application will be added here.
-
----
-
 ## Author
 
 **Muhammad Usman**
