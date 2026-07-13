@@ -14,6 +14,10 @@ A secure command-line file storage system developed in Python that encrypts user
 - Command-Line Interface (CLI)
 
 ---
+## Project Overview
+
+This project is a command-line secure file storage system that allows users to register, authenticate, upload files securely, and download them after decryption. It demonstrates the practical implementation of modern cryptographic techniques including AES-256-GCM, PBKDF2-HMAC-SHA256, and bcrypt for protecting sensitive data.
+---
 
 ## Technologies Used
 
